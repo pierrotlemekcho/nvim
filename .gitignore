@@ -1,2 +1,6 @@
-# Cache et données runtime (générées automatiquement)
+# Plugins installés par lazy.nvim (se réinstallent automatiquement)
+lazy-lock.json
+
+# Cache et données runtime
 /plugin/
+
