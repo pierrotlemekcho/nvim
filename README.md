@@ -19,7 +19,7 @@ sudo apt install git
 
 ```bash
 # Cloner la config
-git clone https://github.com/pierrotlemekcho/nvim.git ~/.config/nvim
+git clone git@github.com:pierrotlemekcho/nvim.git ~/.config/nvim
 
 # Lancer nvim — lazy.nvim s'installe automatiquement
 nvim
